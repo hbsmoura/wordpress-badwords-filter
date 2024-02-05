@@ -1,0 +1,9 @@
+.badwords_filter__flex-container {
+    display: flex;
+}
+
+.badwords_filter__flex-container textarea {
+    flex: 1;
+    height: 20em;
+    margin-bottom: 2em;
+}

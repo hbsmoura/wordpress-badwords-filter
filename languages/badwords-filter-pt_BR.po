@@ -1,0 +1,75 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Badwords Filter v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-01-31 17:12-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/BadwordsFilterAdmin.php:21
+#: includes/admin/BadwordsFilterAdmin.php:52
+#: includes/admin/BadwordsFilterAdminView.php:68
+msgid "Badwords Filter Settings"
+msgstr "Configurações do Badwords Filter"
+
+#: includes/admin/BadwordsFilterAdmin.php:22
+#: includes/admin/BadwordsFilterAdmin.php:53
+msgid "Badwords Filter"
+msgstr ""
+
+#: includes/admin/BadwordsFilterAdmin.php:77
+msgid "Enable for content"
+msgstr "Habilitar para conteúdo"
+
+#: includes/admin/BadwordsFilterAdmin.php:85
+msgid "Enable for comments"
+msgstr "Habilitar para comentários"
+
+#: includes/admin/BadwordsFilterAdmin.php:93
+msgid "Replacement characters"
+msgstr "Caracteres de saída"
+
+#: includes/admin/BadwordsFilterAdmin.php:101
+msgid "List of words"
+msgstr "Lista de palavras"
+
+#: includes/admin/BadwordsFilterAdminView.php:18
+msgid "Activate/deactivate for content"
+msgstr "Ativar/desativar para conteúdo"
+
+#: includes/admin/BadwordsFilterAdminView.php:32
+msgid "Activate/deactivate for comments"
+msgstr "Ativar/desativar para comentários"
+
+#: includes/admin/BadwordsFilterAdminView.php:52
+msgid "Enter a comma-separated list of words to filter from your content."
+msgstr "Submeta a lista de palavras pra ser filtrada, separada por vírgulas."
+
+#: includes/admin/BadwordsFilterAdminView.php:59
+msgid "bad, mean, awful, horrible"
+msgstr "ruim, mau, medonho, horrível"
+
+#~ msgid "Enter a"
+#~ msgstr "Submeta uma"
+
+#~ msgid "comma-separated"
+#~ msgstr "(separada por vírgulas)"
